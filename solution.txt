@@ -1,0 +1,8 @@
+git clone
+git branch hw-s18726
+git checkout hw-s18726
+git checkout rebase-me
+git rebase rebase-me
+git checkout hw-s18726
+git pull origin rebase-me
+[ręczna edycja pliku README.md, aby usunąć konflikt]
